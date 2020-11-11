@@ -6,6 +6,7 @@ metadata:
   annotations: 
     github.com/project-slug: cpda11/bs1
     backstage.io/github-actions-id: cpda11/bs1
+    backstage.io/kubernetes-id: iii
 spec:
   type: service
   lifecycle: experimental
