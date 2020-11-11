@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: bs1
+  description: bs1
+  annotations: 
+    github.com/project-slug: cpda11/bs1
+    backstage.io/github-actions-id: cpda11/bs1
+spec:
+  type: service
+  lifecycle: experimental
+  owner: cpda11
